@@ -1,0 +1,78 @@
+
+1/26/2022 4:23:18 PM -- Connected to https://www.google.com/search?q=best+movies+of+all+time
+1/26/2022 4:23:18 PM -- Visited https://www.google.com/search?q=best+movies+of+all+time
+1/26/2022 4:23:19 PM -- Connected to https://www.imdb.com/chart/top
+1/26/2022 4:23:19 PM -- Visited https://www.imdb.com/chart/top
+1/26/2022 4:23:19 PM -- Connected to https://www.imdb.com/title/godfather
+1/26/2022 4:23:19 PM -- Visited https://www.imdb.com/title/godfather
+1/26/2022 4:23:19 PM -- Connected to https://www.imdb.com/title/godfather-part-2
+1/26/2022 4:23:19 PM -- Visited https://www.imdb.com/title/godfather-part-2
+1/26/2022 4:23:20 PM -- Connected to https://www.imdb.com/title/lord-of-the-rings
+1/26/2022 4:23:20 PM -- Visited https://www.imdb.com/title/lord-of-the-rings
+1/26/2022 4:23:20 PM -- Connected to https://www.imdb.com/title/inception
+1/26/2022 4:23:20 PM -- Visited https://www.imdb.com/title/inception
+1/26/2022 4:23:20 PM -- Connected to https://www.facebook.com/imdb
+1/26/2022 4:23:20 PM -- Visited https://www.facebook.com/imdb
+1/26/2022 4:23:20 PM -- Connected to https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:20 PM -- Visited https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:21 PM -- Connected to https://www.rottentomatoes.com/top/bestofrt
+1/26/2022 4:23:21 PM -- Visited https://www.rottentomatoes.com/top/bestofrt
+1/26/2022 4:23:21 PM -- Connected to https://www.rottentomatoes.com/m/godfather
+1/26/2022 4:23:21 PM -- Visited https://www.rottentomatoes.com/m/godfather
+1/26/2022 4:23:21 PM -- Connected to https://www.rottentomatoes.com/m/godfather-2
+1/26/2022 4:23:21 PM -- Visited https://www.rottentomatoes.com/m/godfather-2
+1/26/2022 4:23:21 PM -- Connected to https://www.rottentomatoes.com/m/lord-of-the-rings
+1/26/2022 4:23:22 PM -- Visited https://www.rottentomatoes.com/m/lord-of-the-rings
+1/26/2022 4:23:22 PM -- Connected to https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:22 PM -- Visited https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:22 PM -- Connected to https://www.facebook.com/imdb
+1/26/2022 4:23:22 PM -- Visited https://www.facebook.com/imdb
+1/26/2022 4:23:22 PM -- Connected to https://www.imdb.com/chart/top
+1/26/2022 4:23:22 PM -- Visited https://www.imdb.com/chart/top
+1/26/2022 4:23:23 PM -- Connected to https://www.imdb.com/title/godfather
+1/26/2022 4:23:23 PM -- Visited https://www.imdb.com/title/godfather
+1/26/2022 4:23:23 PM -- Connected to https://www.imdb.com/title/godfather-part-2
+1/26/2022 4:23:23 PM -- Visited https://www.imdb.com/title/godfather-part-2
+1/26/2022 4:23:23 PM -- Connected to https://www.imdb.com/title/lord-of-the-rings
+1/26/2022 4:23:23 PM -- Visited https://www.imdb.com/title/lord-of-the-rings
+1/26/2022 4:23:23 PM -- Connected to https://www.imdb.com/title/inception
+1/26/2022 4:23:23 PM -- Visited https://www.imdb.com/title/inception
+1/26/2022 4:23:24 PM -- Connected to https://www.facebook.com/imdb
+1/26/2022 4:23:24 PM -- Visited https://www.facebook.com/imdb
+1/26/2022 4:23:24 PM -- Connected to https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:24 PM -- Visited https://www.facebook.com/rottentomatoes
+1/26/2022 4:23:24 PM -- Connected to https://www.rottentomatoes.com/top/bestofrt
+1/26/2022 4:23:24 PM -- Visited https://www.rottentomatoes.com/top/bestofrt
+1/26/2022 4:23:24 PM -- Connected to https://www.rottentomatoes.com/m/godfather
+1/26/2022 4:23:24 PM -- Visited https://www.rottentomatoes.com/m/godfather
+1/26/2022 4:23:25 PM -- Connected to https://www.rottentomatoes.com/m/godfather-2
+1/26/2022 4:23:25 PM -- Visited https://www.rottentomatoes.com/m/godfather-2
+1/26/2022 4:23:25 PM -- Connected to https://www.rottentomatoes.com/m/lord-of-the-rings
+1/26/2022 4:23:25 PM -- Visited https://www.rottentomatoes.com/m/lord-of-the-rings
+1/26/2022 4:23:25 PM -- Visited Count: 25
+1/26/2022 4:23:25 PM -- Visited URLs: 
+  - https://www.google.com/search?q=best+movies+of+all+time
+  - https://www.imdb.com/chart/top
+  - https://www.imdb.com/title/godfather
+  - https://www.imdb.com/title/godfather-part-2
+  - https://www.imdb.com/title/lord-of-the-rings
+  - https://www.imdb.com/title/inception
+  - https://www.facebook.com/imdb
+  - https://www.facebook.com/rottentomatoes
+  - https://www.rottentomatoes.com/top/bestofrt
+  - https://www.rottentomatoes.com/m/godfather
+  - https://www.rottentomatoes.com/m/godfather-2
+  - https://www.rottentomatoes.com/m/lord-of-the-rings
+  - https://www.facebook.com/rottentomatoes
+  - https://www.facebook.com/imdb
+  - https://www.imdb.com/chart/top
+  - https://www.imdb.com/title/godfather
+  - https://www.imdb.com/title/godfather-part-2
+  - https://www.imdb.com/title/lord-of-the-rings
+  - https://www.imdb.com/title/inception
+  - https://www.facebook.com/imdb
+  - https://www.facebook.com/rottentomatoes
+  - https://www.rottentomatoes.com/top/bestofrt
+  - https://www.rottentomatoes.com/m/godfather
+  - https://www.rottentomatoes.com/m/godfather-2
+  - https://www.rottentomatoes.com/m/lord-of-the-rings
