@@ -1,0 +1,4 @@
+C:\Users\Tim\source\repos\Timothy-Young\Crawler\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.exe
+C:\Users\Tim\source\repos\Timothy-Young\Crawler\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\Timothy-Young\Crawler\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfoInputs.cache
+C:\Users\Tim\source\repos\Timothy-Young\Crawler\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfo.cs
